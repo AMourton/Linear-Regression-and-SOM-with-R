@@ -1,5 +1,5 @@
 # Linear-Regression-and-SOM-with-R
-Bee Colonies Loss and its Impact on the Economy- University Project. This work tests the hypothesis that the use of neonic pesticides is one of the main reasons for the phenomena called Colony Collapse Disorder (CCD), leading to a massive bee colony losses. Subsequently, bee colonies loss have a negative impact on the economy. 
+Bee Colonies Loss and its Impact on the Economy- University Project*. This work tests the hypothesis that the use of neonic pesticides is one of the main reasons for the phenomena called Colony Collapse Disorder (CCD), leading to a massive bee colony losses. Subsequently, bee colonies loss have a negative impact on the economy. 
 
 R.files
 File	Description
@@ -25,3 +25,11 @@ If the application encounters problems when first ran, this may be due to ‘pac
 2.	In the empty box ‘Packages’, type ‘pacman’
 3.	Tick “Install dependencies” box.
 4.	Select “Install”
+
+The datasets used for the purposes of this project were found on Kaggle.
+
+*This is a part of a group university project. While contributing to each part of the project, my main contribution was:
+- selection of the datasets
+- data analysis and potential use for the chosen topic
+- preprocessing in R
+- report
